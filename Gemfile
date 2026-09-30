@@ -1,5 +1,9 @@
 # frozen_string_literal: true
 
+# Cài jekyll để build, phiên bản tham khảo tại https://jekyllrb.com/docs/history/
+gem "jekyll", "~> 4.4"
+gem "jekyll-theme-chirpy"
+
 source "https://rubygems.org"
 
 # gemspec
